@@ -1,0 +1,14 @@
+{
+  "name": "sublime-jshint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "dependencies": {
+    "jshint": "2.9.1",
+    "jsonminify": "0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
