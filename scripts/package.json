@@ -4,7 +4,7 @@
   "description": "",
   "main": "run.js",
   "dependencies": {
-    "jshint": "2.9.1",
+    "jshint": "2.10.2",
     "jsonminify": "0.4.1"
   },
   "devDependencies": {},
