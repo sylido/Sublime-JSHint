@@ -5,7 +5,7 @@
   "main": "run.js",
   "dependencies": {
     "jshint": "2.13.5",
-    "jsonminify": "0.4.1"
+    "jsonminify": "0.4.2"
   },
   "devDependencies": {},
   "scripts": {

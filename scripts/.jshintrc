@@ -1,0 +1,29 @@
+{
+  "node"          : true,
+  "bitwise"       : true,
+  "curly"         : true,
+  "devel"         : true,
+  "eqeqeq"        : true,
+  "esversion"     : 9,
+  "esnext"        : false,
+  "forin"         : true,
+  "funcscope"     : false,
+  "jquery"        : true,
+  "latedef"       : true,
+  "maxdepth"      : 6,
+  "maxparams"     : 5,
+  "maxstatements" : 200,
+  "nocomma"       : true,
+  "nonbsp"        : true,
+  "nonew"         : true,
+  "notypeof"      : false,
+  "shadow"        : "outer",
+  "singleGroups"  : true,
+  "strict"        : false,
+  "sub"           : true,
+  "undef"         : true,
+  "unused"        : true,
+  "globals"       : {
+    "require" : true
+  }
+}
